@@ -1,0 +1,11 @@
+como publicar web site en github
+en la terminal
+git init
+git status
+git add .
+git status
+git commit -m "primer commit"
+copiar git remote add origin https://github.com/rerg130170/equipos1024.git y pegar en la terminal
+git push -u origin master
+crear un nuevo brach llamda gh-pages
+setting 
